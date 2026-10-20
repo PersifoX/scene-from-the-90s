@@ -1,0 +1,91 @@
+Графические материалы «Когда родители были маленькими»
+
+Модели Poly Haven, лицензия CC0:
+Television 02 — Benny Weimer
+https://polyhaven.com/a/television_02
+Painted Wooden Chair 02 — Kirill Sannikov
+https://polyhaven.com/a/painted_wooden_chair_02
+Book Encyclopedia Set 01 — John Malcolm
+https://polyhaven.com/a/book_encyclopedia_set_01
+Лицензия: https://polyhaven.com/license
+
+Материалы Poly Haven, CC0:
+Walnut Veneer: https://polyhaven.com/a/walnut_veneer
+Fabric Pattern 05: https://polyhaven.com/a/fabric_pattern_05
+Rough Linen: https://polyhaven.com/a/rough_linen
+Dirty Carpet (карта нормалей): https://polyhaven.com/a/dirty_carpet
+Herringbone Parquet (сохранён в исходниках, в комнате не используется):
+https://polyhaven.com/a/herringbone_parquet
+
+Фотография ковра: Antique Persian Mashad rug, www.Rugfirm.com / Wikimedia Commons.
+https://commons.wikimedia.org/wiki/File:Antique_Persian_Mashad_rug.jpg
+CC BY 3.0: https://creativecommons.org/licenses/by/3.0/
+Изменения в приложении: обрезка полей, изменение разрешения и тонировка.
+
+Pixelify Sans — SIL Open Font License 1.1.
+Текст лицензии: /licenses/pixelify-sans.txt
+
+Размеры моделей подогнаны под сцену. Для стилизации текстуры уменьшаются
+в памяти браузера и используют Nearest-фильтрацию. Обивка обесцвечена,
+лён осветлён. Исходные текстуры сохранены отдельно.
+
+Остальная мебель и архитектура смоделированы для проекта.
+Семейная панорама используется только как локальный пространственный референс
+и не публикуется как текстура комнаты. Люди с фотографии в сцену не перенесены.
+
+Обновление по семейным фотографиям:
+Painted Wooden Stool — Kirill Sannikov, Poly Haven, CC0.
+https://polyhaven.com/a/painted_wooden_stool
+В сцене табуретки заменяют Painted Wooden Chair 02; прежние файлы стульев сохранены.
+
+История разработки: три декоративных портрета, обивка sofa-jacquard.png и ковёр
+room-rug.png созданы встроенным Image Gen. Вымышленные портреты исключены из сцены;
+обивка и ковёр продолжают использоваться как реконструкция текстиля.
+Обивка и ковёр воссоздают направление рисунка по предоставленным фотографиям.
+Это не сканы оригинальных произведений или точные копии текстиля.
+Исходный Mashad rug сохранён, но заменён в сцене на room-rug.png.
+Люстра, кресло, боковой столик, лампа, потолок и блюда смоделированы для проекта.
+
+Историческое наполнение, 15.10.2026:
+Три вымышленных AI-портрета больше не используются в сцене.
+Вместо них — полные репродукции настоящих картин (Wikimedia Commons, public domain / PD-Art):
+В. Боровиковский. Портрет М.И. Лопухиной. 1797.
+https://commons.wikimedia.org/wiki/File:Borovikovsky_maria_Lopukhina.jpg
+К. Брюллов. Всадница. 1832. Google Art Project.
+https://commons.wikimedia.org/wiki/File:Karl_Bryullov_(Bryullo)_-_%D0%92%D1%81%D0%B0%D0%B4%D0%BD%D0%B8%D1%86%D0%B0_-_Google_Art_Project.jpg
+В. Тропинин. Кружевница. 1823. Google Art Project.
+https://commons.wikimedia.org/wiki/File:Vasily_Tropinin_-_%D0%9A%D1%80%D1%83%D0%B6%D0%B5%D0%B2%D0%BD%D0%B8%D1%86%D0%B0_-_Google_Art_Project.jpg
+Пиксельная обработка выполняется в браузере, изображение не обрезается.
+Источники исторических фактов и медиапубликаций: SOURCES.html.
+Короткие фрагменты из «Курьера», «Любовь и голуби», «Ширли-мырли» скачаны с официального канала «Мосфильма» на RUTUBE 15.10.2026.
+Файлы MP4 H.264/AAC сохранены в media/films/ и воспроизводятся на экране 3D-телевизора.
+Содержание и звук не изменены, контейнер подготовлен для быстрой загрузки (faststart).
+Оригинальные ссылки, размеры файлов и SHA-256: media/films/sources.json.
+Кинофрагменты — материалы «Мосфильма», они не относятся к CC0-моделям и текстурам выше.
+Радио передаётся непосредственно с серверов архивов «Старое Радио» и «Свидетель».
+Фрагменты фильмов включены в дистрибутив; радиозаписи передаются с серверов архивов. Медиа не выдаются за собственные материалы.
+
+Радиоприёмник — авторская 3D-стилизация по мотивам ВЭФ-202.
+Музейный референс: https://ar.culture.ru/ru/subject/radiopriemnik-vef-202-vef-202
+Визуальный референс: https://rw6ase.narod.ru/index1/radiopriem/rp_pp/rp_pp4/wef202_8.jpg
+Шкала и решётка созданы процедурно в коде; фотографии не включены в модель.
+Chinese Roast Duck — desyn 3D, готовая модель 3D Warehouse.
+https://3dwarehouse.sketchup.com/model/48ed32e9-3757-4c36-a831-8c50b56b8f71/Chinese-Roast-Duck
+Лицензия: 3D Warehouse General Model License, раздел 1.B (Combined Work).
+https://3dwarehouse.sketchup.com/tou#license
+Модель используется как часть интерактивной комнаты, не как самостоятельный товар или библиотека моделей.
+Изменения: удалены подвес, голова с шеей и направляющие; модель уложена на блюдо,
+подогнана по размеру, материал настроен для освещения сцены. Исходная геометрия и UV сохранены.
+Блюдо, гарнир и «Наполеон» сделаны в коде; рецепт кутьи записан по домашнему воспоминанию.
+
+Old Computer 02 — River Yang / Free poly (Freepoly.org), Blendkit.
+https://www.blendkit.com/asset-gallery-detail/73429166-ad82-4209-a4e5-079edcf80d21/
+Лицензия CC0: https://creativecommons.org/publicdomain/zero/1.0/
+Источник и изменения: models/vintage_computer/source.json.
+Изменения: преобразования и опора запечены, геометрия сокращена с 335 550 до
+134 220 полигонов, стандартные PBR-связи восстановлены, экспорт glTF/Draco.
+Текстуры автора 1K и UV сохранены. Фильтрация пиксельная; марка исходного
+компьютера комнаты неизвестна, готовая модель используется для реконструкции.
+Google Draco — Apache License 2.0.
+https://github.com/google/draco
+Декодер поставляется локально в decoders/draco/, без обращения к внешнему CDN.

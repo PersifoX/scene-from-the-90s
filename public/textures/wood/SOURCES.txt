@@ -1,0 +1,4 @@
+Source: Poly Haven, https://polyhaven.com/license — CC0.
+Furniture: Walnut Veneer by Jenelle van Heerden, https://polyhaven.com/a/walnut_veneer
+Floor: Herringbone Parquet by Sergej Majboroda (Photography), Jenelle van Heerden (Processing), https://polyhaven.com/a/herringbone_parquet
+Original 1k JPG diffuse, roughness and OpenGL normal maps downloaded from dl.polyhaven.org. Original maps are retained locally. Runtime texture sampling reduces resolution for the game's pixel aesthetic.

@@ -1,0 +1,18 @@
+{
+  "title": "Old Computer 02",
+  "author": "River Yang / Free poly (Freepoly.org)",
+  "source": "https://www.blendkit.com/asset-gallery-detail/73429166-ad82-4209-a4e5-079edcf80d21/",
+  "assetId": "d76c1df3-ef22-4576-a63a-4e911f9959ab",
+  "license": "CC0-1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "downloaded": "2026-10-16",
+  "changes": [
+    "Baked hierarchy and placed bottom at y=0",
+    "Decimated geometry to 134220 triangles",
+    "Rebuilt standard PBR material links; retained authored 1K maps and UVs",
+    "Exported GLB with Draco compression; local decoder bundled"
+  ],
+  "bytes": 1136136,
+  "sha256": "c3ad8f997b284318251122530704041955e9f85a6f473cf4bfee77a339bf040f",
+  "historicalNote": "Illustrative reconstruction. Original room computer make and year are unknown."
+}

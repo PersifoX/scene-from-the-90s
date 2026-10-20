@@ -1,0 +1,29 @@
+[
+  {
+    "file": "courier.mp4",
+    "source": "https://rutube.ru/video/dcae1e05e26e308ed193f8b78626f4e8/",
+    "publisher": "Киноконцерн «Мосфильм»",
+    "downloaded": "2026-10-15",
+    "processing": "H.264/AAC remux to MP4; faststart; no cuts or content changes",
+    "bytes": 1167008,
+    "sha256": "cc09163fdb7d4e2515777f4b7cbc8c8401860645d7bf753de6040c0b85541fe5"
+  },
+  {
+    "file": "love-and-doves.mp4",
+    "source": "https://rutube.ru/video/59f93a7f43e23afd824aa2f2034bbc68/",
+    "publisher": "Киноконцерн «Мосфильм»",
+    "downloaded": "2026-10-15",
+    "processing": "H.264/AAC remux to MP4; faststart; no cuts or content changes",
+    "bytes": 3814121,
+    "sha256": "ea0d76799fe526acbaf10ac33e9194a0aa3c63106bf40d9f790b9c60584280df"
+  },
+  {
+    "file": "shirley-myrli.mp4",
+    "source": "https://rutube.ru/video/df1442966830de6f467907afc0bc6620/",
+    "publisher": "Киноконцерн «Мосфильм»",
+    "downloaded": "2026-10-15",
+    "processing": "H.264/AAC remux to MP4; faststart; no cuts or content changes",
+    "bytes": 2359958,
+    "sha256": "62f13488144dd2a95137746231ebe465316e1ec30feba4edc342a5168fee9e9f"
+  }
+]
